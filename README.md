@@ -12,7 +12,7 @@
 
 - 💼 Past work experience : Android Developer Intern at [Signo](https://www.signo.in), SDE Intern at [Acadza](www.acadza.com), Flutter Developer at [Droog](www.droog.in) and more
 
-<h3 align="left">Socials</h3>
+<h3 align="left">Find me</h3>
 <p align='left'>
   <a href="https://gitlab.com/PaRaDoX50"><img src='https://about.gitlab.com/images/press/logo/svg/gitlab-icon-1-color-black-rgb.svg' alt='gitlab' height='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/suryansh-singh-tomar-8a61131a1/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
