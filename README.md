@@ -1,10 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Suryansh</h1>
 
-<h5 align="center">I am a app developer who loves to Flutter. Currently a student at Indian Institute Technology Varanasi (BHU).
-  Apart from coding, talk to me about Hip-Hop music and Gaming, I'm all ears.</h5>
-
-
-
+<h4 align="center">I am a app developer who loves to Flutter. Currently a student at Indian Institute Technology Varanasi (BHU).
+  Apart from coding, talk to me about Hip-Hop music and Gaming, I'm all ears.</h4>
+  </br>
+  
 - 🔭 I’m currently working on **Open Source Projects**
 
 - 🌱 I’m currently learning **iOS app development**
