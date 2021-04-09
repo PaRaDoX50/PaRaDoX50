@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Suryansh</h1>
 
-<h4 align="center">I am a app developer who loves to Flutter. Currently a student at Indian Institute Technology Varanasi (BHU).
+<h4 align="center">I am an app developer who loves to Flutter. Currently a student at Indian Institute Technology Varanasi (BHU).
   Apart from coding, talk to me about Hip-Hop music and Gaming, I'm all ears.</h4>
   </br>
   
