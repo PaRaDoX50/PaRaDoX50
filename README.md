@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **suryansh.stomar.min19@iitbhu.ac.in**
 
-- 💼 Past work experience : Software Developer Intern at [Better Financial Corporation](https://www.betterbanking.app), Software Developer at [Autoave](https://autoave.in), SDE Intern at [Acadza](https://www.acadza.com) and more
+- 💼 Past work experience : Student Software Developer at [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2021/projects/5720603411087360), Software Developer Intern at [Better Financial Corporation](https://www.betterbanking.app), Software Developer at [Autoave](https://autoave.in), SDE Intern at [Acadza](https://www.acadza.com) and more
 
 <h3 align="left">Find me</h3>
 <p align='left'>
