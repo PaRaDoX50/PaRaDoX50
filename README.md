@@ -3,14 +3,13 @@
 <h4 align="center">I am an app developer who loves to Flutter. Currently a student at Indian Institute Technology Varanasi (BHU).
   Apart from coding, talk to me about Hip-Hop music and Gaming, I'm all ears.</h4>
   </br>
-  
-- 🔭 I’m currently working on **Open Source Projects**
-
-- 🌱 I’m currently learning **iOS app development**
+ 
+- 💼 **Past work experience : Student Software Developer at [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2021/projects/5720603411087360), Software Developer Intern at [Better Financial Corporation](https://www.betterbanking.app), Software Developer at [Autoave](https://autoave.in), SDE Intern at [Acadza](https://www.acadza.com) and more** 
 
 - 📫 Reach me at **suryansh.stomar.min19@iitbhu.ac.in**
+- 📄 [Resume](https://drive.google.com/file/d/1cZaVJvGDrscJin_g-dJvu-eGPxEG0MFy/view?usp=share_link)
 
-- 💼 Past work experience : Student Software Developer at [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2021/projects/5720603411087360), Software Developer Intern at [Better Financial Corporation](https://www.betterbanking.app), Software Developer at [Autoave](https://autoave.in), SDE Intern at [Acadza](https://www.acadza.com) and more
+
 
 <h3 align="left">Find me</h3>
 <p align='left'>
