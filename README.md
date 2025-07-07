@@ -13,10 +13,10 @@
 
 <h3 align="left">Find me</h3>
 <p align='left'>
-  <a href="https://gitlab.com/PaRaDoX50"><img src='https://about.gitlab.com/images/press/logo/svg/gitlab-icon-1-color-black-rgb.svg' alt='gitlab' height='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/suryansh-singh-tomar-8a61131a1/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:suryansh.stomar.min19@iitbhu.ac.in?subject="><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/suryansht_" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gitlab.com/PaRaDoX50"><img src='https://about.gitlab.com/images/press/logo/svg/gitlab-icon-1-color-black-rgb.svg' alt='gitlab' height='40' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/suryansh-singh-tomar-8a61131a1/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:suryansh.stomar.min19@iitbhu.ac.in?subject="><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40' width='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/suryansht_" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' width='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
